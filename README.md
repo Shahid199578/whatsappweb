@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. Prepare the input Excel file:
-- Create an Excel file with two columns: "Number" and "Message".
+- Create an Excel file with two columns: "Number" and "Message" or you can use demo.xlsx.
 - Enter the phone numbers and corresponding messages in the respective columns.
 
 2. Run the script:
