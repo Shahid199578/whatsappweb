@@ -46,9 +46,9 @@ pip install -r requirements.txt
   python main.py
   ```
 - The GUI window will open.
-- Click on the "Select File" button and choose the input Excel file.
--  The script will open a Chrome browser window with WhatsApp Web.
-- Complete the QR code scan:
+- choose the input Excel file.
+- The script will open a Chrome browser window with WhatsApp Web.
+- Complete the QR code scan.
 - You will need to log in to your WhatsApp account by scanning the QR code using your phone.
 - Once you complete the QR code scan.
 - AFTER logging into Whatsapp Web is complete and your chats are visible,
