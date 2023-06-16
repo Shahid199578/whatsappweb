@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 4. Download the Chrome WebDriver:
 - Make sure to download the Chrome WebDriver that matches your Chrome browser version.
-- You can download it from the official website: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads){:target="_blank"}
+- You can download it from the official website: [official website](https://sites.google.com/a/chromium.org/chromedriver/downloads){:target="_blank"}.
 - Extract the WebDriver executable and place it in a directory accessible to your system's PATH.
 
 ## Usage
