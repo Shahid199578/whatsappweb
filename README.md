@@ -1,6 +1,6 @@
 # WhatsApp Sender
 
-WhatsApp Sender is a Python script and GUI application that automates sending messages to multiple phone numbers using WhatsApp Web.
+WhatsApp Sender is a Python script that automates sending messages to multiple phone numbers using WhatsApp Web.
 
 ## Features
 
